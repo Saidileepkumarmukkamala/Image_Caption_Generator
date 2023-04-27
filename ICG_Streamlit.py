@@ -108,10 +108,9 @@ def main():
 
     else:
             st.subheader("About")
-            st.text("This is a Virtual Notes Assistant, Made by a students of the IIIT-Kalyani, India.")
-            st.text("Jahnavi Pravaleeka Battu")
+            st.text("This is a Image Caption Generator, Made by a student of the IIIT-Kalyani, India.")
             st.text("Sai Dileep Kumar Mukkamala")
-            st.text("Senior CSE Students @ IIITKalyani")
+            st.text("Senior CSE Student @ IIITKalyani")
             st.text("Data Science Enthusiasists.")
 
             lottie_hello = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_in4cufsz.json")
